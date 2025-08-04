@@ -2,7 +2,7 @@
 
 📍 **Nazária - PI, Brasil**  
 📞 (86) 99481-1716 | ✉️ `lucashenriqueh634@gmail.com`  
-🎓 **Estudante de Tecnologia | Aspirante a Dev Full-Stack**
+🎓 **Estudante de Tecnologia 
 
 ---
 
