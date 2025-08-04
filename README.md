@@ -53,11 +53,7 @@ Busco minha primeira oportunidade no mercado de tecnologia para aplicar meus con
 
 ---
 
-## 🌟 Projetos em Destaque  
-*(Adicione links para repositórios ou projetos pessoais aqui)*  
-🔗 [Projeto 1]() | 🔗 [Projeto 2]()  
 
----
 
 📢 **Vamos conversar!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)  
