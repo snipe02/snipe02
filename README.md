@@ -46,7 +46,7 @@
   </a>
 </div>
 
-###
+
 
 <br clear="both">
 
@@ -66,6 +66,6 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-###
+
 
 <p align="left">Hello World!! 🌍</p>
