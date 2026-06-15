@@ -1,5 +1,6 @@
 <h2 align="left">Olá, me chamo Lucas Henrique 👋</h2>
-
+Formaçãoes:
+formado em Desenvolvmento
 ###
 
 <div align="center">
