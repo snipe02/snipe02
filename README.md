@@ -56,7 +56,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/snipe02/snipe02/snake-output/snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/snipe02/snipe02/snake-output/snake.svg" />
 </picture>
-
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
 ###
 
 <p align="left">Hello World!! 🌍</p>
