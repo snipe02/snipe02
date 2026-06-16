@@ -2,6 +2,7 @@
 Formção Academico:
 
 formado em Desenvolvimento de Sistemas - IFPI
+
 Cursando em Analise em Desenvolvimento - UNIGRAND 5º
 
 Cursando em Tecnologia em Sistemas para internet 4º
