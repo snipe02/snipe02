@@ -5,7 +5,7 @@ formado em Desenvolvimento de Sistemas - IFPI
 
 Cursando em Analise em Desenvolvimento - UNIGRAND 5º
 
-Cursando em Tecnologia em Sistemas para internet 4º
+Cursando em Tecnologia em Sistemas para internet  UESPI 4º
 ###
 
 <div align="center">
