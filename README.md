@@ -1,7 +1,9 @@
 <h2 align="left">Olá, me chamo Lucas Henrique 👋</h2>
-Formaçãoes:
+Formção Academico:
 
-formado em Desenvolvmento
+formado em Desenvolvimento de Sistemas - IFPI
+Cursando em Analise em Desenvolvimento - UNIGRAND 5º
+Cursando em Tecnologia em Sistemas para internet 4º
 ###
 
 <div align="center">
