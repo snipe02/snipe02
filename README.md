@@ -1,5 +1,5 @@
 <h2 align="left">Olá, me chamo Lucas Henrique 👋</h2>
-Formção Academico:
+<h3>Formção Academico:</h3>
 
 formado em Desenvolvimento de Sistemas - IFPI
 
