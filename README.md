@@ -56,6 +56,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img src="https://cdn.simpleicons.org/ionic/3880FF" height="30" alt="ionic logo"  />
 </div>
 
 
