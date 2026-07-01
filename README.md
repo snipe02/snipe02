@@ -4,7 +4,7 @@
 <p>formado em Desenvolvimento de Sistemas - IFPI</p>
 <p>Cursando em Analise em Desenvolvimento - UNIGRAND 5º</p>
 <p>Cursando em Tecnologia em Sistemas para internet  UESPI 4º</p>
-###
+
 
 <div align="center">
   <!-- Espaço vazio proposital, pode adicionar algo se quiser -->
